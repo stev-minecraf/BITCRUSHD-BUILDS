@@ -1,40 +1,15 @@
 {
   "versions": [
     {
-      "version": "1.0.6",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
-      "changes": []
-    },
-    {
-      "version": "1.0.5",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
-      "changes": []
-    },
-    {
-      "version": "1.0.4",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
-      "changes": []
-    },
-    {
-      "version": "1.0.3",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
-      "changes": []
-    },
-    {
-      "version": "1.0.2",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
-      "changes": []
-    },
-    {
       "version": "1.0.1",
       "title": "Hotfix 1",
       "date": "6/2/2026",
-      "changes": []
+      "changes": [
+        {
+          "type": "fix",
+          "text": "Fixed critical bug"
+        }
+      ]
     },
     {
       "version": "1.0.0",
