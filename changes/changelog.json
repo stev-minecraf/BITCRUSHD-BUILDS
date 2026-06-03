@@ -1,9 +1,9 @@
 {
   "versions": [
     {
-      "version": "1.0.0",
-      "title": "RELEASE!",
-      "date": "6/1/2026",
+      "version": "1.0.1",
+      "title": "Hotfix 1",
+      "date": "6/2/2026",
       "changes": {
         "fixes": [],
         "features": [],
@@ -11,9 +11,9 @@
       }
     },
     {
-      "version": "1.0.1",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
+      "version": "1.0.0",
+      "title": "RELEASE!",
+      "date": "6/1/2026",
       "changes": {
         "fixes": [],
         "features": [],
