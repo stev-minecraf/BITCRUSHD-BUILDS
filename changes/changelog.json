@@ -15,9 +15,18 @@
       "title": "Hotfix 1",
       "date": "6/2/2026",
       "changes": {
-        "fixes": [],
-        "features": [],
-        "changes": []
+        "fixes": [
+          "example 1",
+          "example 2"
+        ],
+        "features": [
+          "example 1",
+          "example 2"
+        ],
+        "changes": [
+          "example 1",
+          "example 2"
+        ]
       }
     }
   ]
