@@ -28,6 +28,25 @@
           "example 2"
         ]
       }
+    },
+    {
+      "version": "1.0.2",
+      "title": "Hotfix 2",
+      "date": "6/2/2026",
+      "changes": {
+        "fixes": [
+          "example 1",
+          "example 2"
+        ],
+        "features": [
+          "example 1",
+          "example 2"
+        ],
+        "changes": [
+          "example 1",
+          "example 2"
+        ]
+      }
     }
   ]
 }
