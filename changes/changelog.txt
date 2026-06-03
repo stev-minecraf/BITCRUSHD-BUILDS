@@ -1,4 +1,0 @@
-1.0.1 - Hotfix 1
-- Fixed
-
-1.0.0 - RELEASE!
