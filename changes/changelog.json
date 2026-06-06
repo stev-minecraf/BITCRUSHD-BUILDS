@@ -1,31 +1,48 @@
 {
   "versions": [
     {
-      "version": "1.0.0",
+      "version": "1.0",
       "title": "RELEASE!",
       "date": "6/1/2026",
       "changes": {
-        "fixes": [],
         "features": [],
-        "changes": []
+        "changes": [],
+        "fixes": []
       }
     },
     {
-      "version": "1.0.1",
-      "title": "Hotfix 1",
-      "date": "6/2/2026",
+      "version": "1.1",
+      "title": "The Hotfix Update",
+      "date": "6/5/2026",
       "changes": {
-        "fixes": [
-          "example 1",
-          "example 2"
-        ],
         "features": [
-          "example 1",
-          "example 2"
+          "New inclusion of the Changelog window (What you're reading right now!)",
+          "New BF Death anim in the style of BITCRUSH'D for selected songs",
+          "New Checkbox sprite for Options Menu",
+          "Icon switches to new Duo Icons when both characters are singing in selected songs"
         ],
         "changes": [
-          "example 1",
-          "example 2"
+          "The Alphabet class is now modified to use the Delicatus font through FlxText, rather than using a spritesheet",
+          "Pause Menu's texts are now centered and have > < indicators",
+          {
+            "text": "The animations to the following elements are now constantly synced with eachother:",
+            "subtexts": [
+              "Main Menu buttons",
+              "Checkbox animation(s) within Options Menu",
+              "Note strums"
+            ]
+          },
+          {
+            "text": "Scroll speed adjustments for better gameplay",
+            "subtexts": [
+              "Suguru scroll speed event is now -0.24 slower",
+              "Ok II scroll speed is now -0.3 slower"
+            ]
+          }
+        ],
+         "fixes": [
+          "Healthbar now properly disappears once Girlfriend notes are pressed while cinematic bars are active (all Duo Opponent Songs)",
+          "GF sprite animations now play completely through the Unison Notetype, whereas previously were cut short"
         ]
       }
     }
